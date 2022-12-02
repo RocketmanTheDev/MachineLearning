@@ -1,0 +1,14 @@
+D:\.Задачи\Informatika\Sudebna Sluzba\Sudebna Sluzba\Sudebna Sluzba\bin\Debug\Sudebna Sluzba.exe.config
+D:\.Задачи\Informatika\Sudebna Sluzba\Sudebna Sluzba\Sudebna Sluzba\bin\Debug\Sudebna Sluzba.exe
+D:\.Задачи\Informatika\Sudebna Sluzba\Sudebna Sluzba\Sudebna Sluzba\bin\Debug\Sudebna Sluzba.pdb
+D:\.Задачи\Informatika\Sudebna Sluzba\Sudebna Sluzba\Sudebna Sluzba\obj\Debug\Sud_11v_20.csprojAssemblyReference.cache
+D:\.Задачи\Informatika\Sudebna Sluzba\Sudebna Sluzba\Sudebna Sluzba\obj\Debug\Sud_11v_20.csproj.CoreCompileInputs.cache
+D:\.Задачи\Informatika\Sudebna Sluzba\Sudebna Sluzba\Sudebna Sluzba\obj\Debug\Sudebna Sluzba.exe
+D:\.Задачи\Informatika\Sudebna Sluzba\Sudebna Sluzba\Sudebna Sluzba\obj\Debug\Sudebna Sluzba.pdb
+D:\.Задачи\Informatika\Sud_11v_20\Sud_11v_20\Sudebna Sluzba\bin\Debug\Sudebna Sluzba.exe.config
+D:\.Задачи\Informatika\Sud_11v_20\Sud_11v_20\Sudebna Sluzba\bin\Debug\Sudebna Sluzba.exe
+D:\.Задачи\Informatika\Sud_11v_20\Sud_11v_20\Sudebna Sluzba\bin\Debug\Sudebna Sluzba.pdb
+D:\.Задачи\Informatika\Sud_11v_20\Sud_11v_20\Sudebna Sluzba\obj\Debug\Sud_11v_20.csprojAssemblyReference.cache
+D:\.Задачи\Informatika\Sud_11v_20\Sud_11v_20\Sudebna Sluzba\obj\Debug\Sud_11v_20.csproj.CoreCompileInputs.cache
+D:\.Задачи\Informatika\Sud_11v_20\Sud_11v_20\Sudebna Sluzba\obj\Debug\Sudebna Sluzba.exe
+D:\.Задачи\Informatika\Sud_11v_20\Sud_11v_20\Sudebna Sluzba\obj\Debug\Sudebna Sluzba.pdb

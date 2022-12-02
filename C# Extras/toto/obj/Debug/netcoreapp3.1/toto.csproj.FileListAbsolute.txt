@@ -1,0 +1,11 @@
+D:\.Задачи\Informatika\toto\bin\Debug\netcoreapp3.1\toto.exe
+D:\.Задачи\Informatika\toto\bin\Debug\netcoreapp3.1\toto.deps.json
+D:\.Задачи\Informatika\toto\bin\Debug\netcoreapp3.1\toto.runtimeconfig.json
+D:\.Задачи\Informatika\toto\bin\Debug\netcoreapp3.1\toto.runtimeconfig.dev.json
+D:\.Задачи\Informatika\toto\bin\Debug\netcoreapp3.1\toto.dll
+D:\.Задачи\Informatika\toto\bin\Debug\netcoreapp3.1\toto.pdb
+D:\.Задачи\Informatika\toto\obj\Debug\netcoreapp3.1\toto.csprojAssemblyReference.cache
+D:\.Задачи\Informatika\toto\obj\Debug\netcoreapp3.1\toto.AssemblyInfoInputs.cache
+D:\.Задачи\Informatika\toto\obj\Debug\netcoreapp3.1\toto.AssemblyInfo.cs
+D:\.Задачи\Informatika\toto\obj\Debug\netcoreapp3.1\toto.dll
+D:\.Задачи\Informatika\toto\obj\Debug\netcoreapp3.1\toto.pdb
